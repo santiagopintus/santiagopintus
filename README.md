@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santiagopintus
 - 👀 I’m interested in web development and in basic python programs.
-- 🌱 I’m currently learning JavaScript, ReactJs, Bootstrap, Python.
+- 🌱 I’m currently learning JavaScript, Angular, Express and MongoDB.
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me: santiagopintus@gmail.com
 
