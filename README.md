@@ -10,6 +10,7 @@ Advanced knowledge in HTML5, CSS3, and JS (ES6+) plus some frameworks and librar
 ## Links to my projects:
 #### Design and developed by me:
 - La Montre (Simple ecommerce): https://santiagopintus.github.io/laMontre/
+    ![La montre thumbnail](images/LaMontre.jpg)
 - Happy Winds (Using APIS): https://santiagopintus.github.io/wdd230/lesson11/HappyWinds/index.html 
 - Inglés con Ailu: https://santiagopintus.github.io/inglesConAilu-Pintus/
 - Rajanding (ReactJs Project): https://github.com/santiagopintus/nosVamos-pintus
