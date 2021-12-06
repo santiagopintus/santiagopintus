@@ -8,15 +8,22 @@
 Advanced knowledge in HTML5, CSS3, and JS (ES6+) plus some frameworks and libraries such as ReactJs, JQuery, SASS preprocessor, Bootstrap and more. I use GIT as the version controller. I also have basic knowledge of Backend.
 
 ## Links to my projects:
-#### Design and developed by me:
-- La Montre (Simple ecommerce): https://santiagopintus.github.io/laMontre/
-    ![La montre thumbnail](images/LaMontre.jpg)
-- Happy Winds (Using APIS): https://santiagopintus.github.io/wdd230/lesson11/HappyWinds/index.html 
-- Inglés con Ailu: https://santiagopintus.github.io/inglesConAilu-Pintus/
-- Rajanding (ReactJs Project): https://github.com/santiagopintus/nosVamos-pintus
-- High Fly Tourism: https://santiagopintus.github.io/HighFly/
-- Harry Potter wiki: https://santiagopintus.github.io/hp-wiki/
+### Design and developed by me:
+- **La Montre (Simple ecommerce)**: https://santiagopintus.github.io/laMontre/
+- ![La montre thumbnail](images/LaMontre.jpg)
+- **Happy Winds (Using APIS)**: https://santiagopintus.github.io/wdd230/lesson11/HappyWinds/index.html 
+- ![HappyWinds thumbnail](images/happyWinds.jpg)
+- **Inglés con Ailu**: https://santiagopintus.github.io/inglesConAilu-Pintus/
+- ![Inglés Con Ailu thumbnail](images/InglesConAilu.jpg)
+- **Rajanding (ReactJs Project)**: https://github.com/santiagopintus/nosVamos-pintus
+- ![Rajanding thumbnail](images/rajanding.jpg)
+- **High Fly Tourism**: https://santiagopintus.github.io/HighFly/
+- ![HighFly thumbnail](images/HighFlyTourism.jpg)
+- **Harry Potter wiki**: https://santiagopintus.github.io/hp-wiki/
+- ![Harry Potter wiki thumbnail](images/hpWiki.jpg)
 
-#### Developed by me:
+### Developed by me:
 - Rock Festival: https://santiagopintus.github.io/rockfestival/
+- ![Rock Festival thumbnail](images/RockEDMFestival.jpg)
 - Coffee Blog: https://santiagopintus.github.io/blogdecafe/
+- ![Blog de Café thumbnail](images/BlogDeCafé.jpg)
