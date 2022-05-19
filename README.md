@@ -22,7 +22,7 @@ Advanced knowledge in HTML5, CSS3, and JS (ES6+) plus some frameworks and librar
 - **Harry Potter wiki**: https://santiagopintus.github.io/hp-wiki/
 - ![Harry Potter wiki thumbnail](images/hpWiki.jpg)
 
-### Developed by me:
+### Design by others, developed by me:
 - Rock Festival: https://santiagopintus.github.io/rockfestival/
 - ![Rock Festival thumbnail](images/RockEDMFestival.jpg)
 - Coffee Blog: https://santiagopintus.github.io/blogdecafe/
