@@ -9,17 +9,17 @@ Advanced knowledge in HTML5, CSS3, JS (ES6+) and Typescript. Currently developin
 
 ## Links to my projects:
 ### Design and developed by me:
-- [**La Montre (Simple ecommerce)**](https://santiagopintus.github.io/laMontre)
+- [**La Montre (Simple ecommerce) (2021)**](https://santiagopintus.github.io/laMontre)
 - ![La montre thumbnail](images/LaMontre.jpg)
-- [**Happy Winds (Using APIS)**](https://santiagopintus.github.io/wdd230/lesson11/HappyWinds/index.html)
+- [**Happy Winds (Using APIS) (2021)**](https://santiagopintus.github.io/wdd230/lesson11/HappyWinds/index.html)
 - ![HappyWinds thumbnail](images/happyWinds.jpg)
-- [**Inglés con Ailu**](https://santiagopintus.github.io/inglesConAilu-Pintus)
+- [**Inglés con Ailu (2021)**](https://santiagopintus.github.io/inglesConAilu-Pintus)
 - ![Inglés Con Ailu thumbnail](images/InglesConAilu.jpg)
-- [**Rajanding (ReactJs Project)**](https://github.com/santiagopintus/nosVamos-pintus)
+- [**Rajanding (ReactJs Project) (2021)**](https://github.com/santiagopintus/nosVamos-pintus)
 - ![Rajanding thumbnail](images/rajanding.jpg)
 
 ### Design by others, developed by me:
-- [Rock Festival](https://santiagopintus.github.io/rockfestival/)
+- [Rock Festival (2021)](https://santiagopintus.github.io/rockfestival/)
 - ![Rock Festival thumbnail](images/RockEDMFestival.jpg)
-- [Coffee Blog](https://santiagopintus.github.io/blogdecafe)
+- [Coffee Blog (2021)](https://santiagopintus.github.io/blogdecafe)
 - ![Blog de Café thumbnail](images/BlogDeCafé.jpg)
