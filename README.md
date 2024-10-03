@@ -7,6 +7,9 @@
 ## Current knowledge:
 Advanced knowledge in HTML5, CSS3, JS (ES6+) and Typescript. Currently developing in Nextjs with Typescript and loving it! Plus some frameworks and libraries such as JQuery, SASS preprocessor, Bootstrap and more. I use GIT as the version controller
 
+## Let's Connect!
+- Here is my [LinkedIn](https://www.linkedin.com/in/santiagopintus/) profile
+
 ## Links to my projects:
 ### Design and developed by me:
 - [**La Montre (Simple ecommerce) (2021)**](https://santiagopintus.github.io/laMontre)
