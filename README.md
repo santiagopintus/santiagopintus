@@ -12,6 +12,7 @@ Advanced knowledge in HTML5, CSS3, JS (ES6+) and Typescript. Currently developin
 
 ## Links to my projects:
 ### Design and developed by me:
+- [**ETHRewards (Data visualization) (2024)**](https://ethrewards-pintus.vercel.app/)
 - [**La Montre (Simple ecommerce) (2021)**](https://santiagopintus.github.io/laMontre)
 - ![La montre thumbnail](images/LaMontre.jpg)
 - [**Happy Winds (Using APIS) (2021)**](https://santiagopintus.github.io/wdd230/lesson11/HappyWinds/index.html)
